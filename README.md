@@ -2,8 +2,8 @@
 ## DBにはrealmを使用
 
 
-- 初期画面
 
+- 初期画面
 ![スクリーンショット 2023-12-24 044027](https://github.com/Ittalian/Blood-Pressure/assets/137425898/a7e18f3d-10c9-4f7c-a48e-7299f4735899)
 
 - fabを押下し、パラメータを入力
