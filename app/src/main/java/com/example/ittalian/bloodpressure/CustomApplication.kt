@@ -10,7 +10,7 @@ class CustomApplication : Application() {
         Realm.init(this)
         val config = RealmConfiguration.Builder().allowWritesOnUiThread(true).build()
         Realm.setDefaultConfiguration(config)
-        //データの削除
-//        Realm.deleteRealm(config)
+        // データの削除
+        // Realm.deleteRealm(config)
     }
 }

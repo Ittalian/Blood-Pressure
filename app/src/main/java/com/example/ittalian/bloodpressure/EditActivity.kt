@@ -12,7 +12,6 @@ import io.realm.kotlin.where
 import java.util.Date
 
 class EditActivity : AppCompatActivity() {
-    private val tag = "BloodPressure"
     private lateinit var realm: Realm
     private lateinit var binding: ActivityEditBinding
 
